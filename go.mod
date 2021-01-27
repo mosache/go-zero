@@ -1,4 +1,4 @@
-module github.com/mosache/go-zero@v2
+module github.com/mosache/go-zero
 
 go 1.14
 
